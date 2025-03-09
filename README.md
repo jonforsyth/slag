@@ -1,4 +1,2 @@
 # slag
-A software library for accompaniment generation. 
-
-Currently under development...
+Python library for accompaniment generation. 
