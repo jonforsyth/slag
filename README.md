@@ -1,2 +1,2 @@
 # slag
-Python library for accompaniment generation using Finite State Transducers.
+**S**oftware **L**ibrary for **A**ccompaniment **G**eneration using Finite State Transducers.
